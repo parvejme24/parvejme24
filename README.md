@@ -10,7 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvejme24&theme=codeSTACKr)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parvejme24&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvejme24&theme=codeSTACKr&utcOffset=8)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parvejme24&theme=dark&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
