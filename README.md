@@ -9,6 +9,8 @@
 ⚛️ React Js | 🎨 Tailwind | 📘 Material UI | 🔥 Firebase | 🚀 Node Js | 🌐 Express Js | 🍃 MongoDB | 🔒 JWT | 🐙 GitHub | 📝 HTML | 🎨 CSS
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parvejme24&theme=dark&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parvejme24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parvejme/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/parvejme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/parvejmep/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/parvejmep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](parvejbd.com)  
 
