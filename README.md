@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is MD PARVEJ
+#### MERN Stack Developer
+![MERN Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**parvejme24/parvejme24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Md Parvej, a MERN Stack Developer passionate about crafting user-friendly web experiences. From robust backends to dynamic frontends, I love turning ideas into code. Eager learner, collaborator, and coding enthusiast. Let's build something amazing together! 🚀👨‍💻
 
-Here are some ideas to get you started:
+Skills: React Js   |   Tailwind   |   Material UI   |   Firebase   |   Node Js | Express Js | MongoDB | JWT  |  GitHub |  HTML  |  CSS  |  
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
