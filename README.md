@@ -7,6 +7,9 @@
 Skills:  ⚛️ React Js | 🎨 Tailwind | 📘 Material UI | 🔥 Firebase | 🚀 Node Js | 🌐 Express Js | 🍃 MongoDB | 🔒 JWT | 🐙 GitHub | 📝 HTML | 🎨 CSS
 
 
+https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png
+
+
 - 🔭 I’m currently working on this page. 
 
 
