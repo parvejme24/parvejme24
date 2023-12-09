@@ -4,7 +4,8 @@
 
 👋 Hi, I'm Md Parvej, a MERN Stack Developer passionate about crafting user-friendly web experiences. From robust backends to dynamic frontends, I love turning ideas into code. Eager learner, collaborator, and coding enthusiast. Let's build something amazing together! 🚀👨‍💻
 
-Skills: React Js   |   Tailwind   |   Material UI   |   Firebase   |   Node Js | Express Js | MongoDB | JWT  |  GitHub |  HTML  |  CSS  |  
+Skills:  ⚛️ React Js | 🎨 Tailwind | 📘 Material UI | 🔥 Firebase | 🚀 Node Js | 🌐 Express Js | 🍃 MongoDB | 🔒 JWT | 🐙 GitHub | 📝 HTML | 🎨 CSS
+
 
 - 🔭 I’m currently working on this page. 
 
