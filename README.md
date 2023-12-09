@@ -1,5 +1,3 @@
-### Hi there 👋, my name is MD PARVEJ
-#### MERN Stack Developer
 ![MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQH7_W7T-fU6gg/profile-displaybackgroundimage-shrink_350_1400/0/1694190210930?e=1707350400&v=beta&t=oLUJz2jp0rEoEJBK8X1Sezorwj8J2etvGnaIaqgVEBY)
 
 ### About Me
