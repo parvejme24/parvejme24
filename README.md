@@ -4,7 +4,7 @@
 👋 Hi, I'm Md Parvej, a MERN Stack Developer passionate about crafting user-friendly web experiences. From robust backends to dynamic frontends, I love turning ideas into code. Eager learner, collaborator, and coding enthusiast. Let's build something amazing together! 🚀👨‍💻
 
 ### Skills:  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,tailwind,bootstrap,firebase,redux,nodejs,express,mongodb,mysql,materialui,nextjs,vscode,webstorm,pycharm,github,git,c,py,docker,stackoverflow,threejs,vite,wordpress,yarn,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,tailwind,bootstrap,firebase,redux,nodejs,express,mongodb,mysql,materialui,nextjs,vscode,webstorm,pycharm,github,git,c,py,docker,stackoverflow,threejs,vite,wordpress,yarn,npm,postman,webpack,regex)](https://skillicons.dev)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvejme24&theme=codeSTACKr)
