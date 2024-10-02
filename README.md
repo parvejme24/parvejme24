@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQH7_W7T-fU6gg/profile-displaybackgroundimage-shrink_350_1400/0/1694190210930?e=1707350400&v=beta&t=oLUJz2jp0rEoEJBK8X1Sezorwj8J2etvGnaIaqgVEBY)
+![MERN Stack Developer](https://i.ibb.co.com/Htzntc9/Md-Parvej-Banner.png)
 
 ### About Me
 👋 Hi, I'm Md Parvej, a MERN Stack Developer passionate about crafting user-friendly web experiences. From robust backends to dynamic frontends, I love turning ideas into code. Eager learner, collaborator, and coding enthusiast. Let's build something amazing together! 🚀👨‍💻
