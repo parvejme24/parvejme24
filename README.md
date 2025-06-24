@@ -46,10 +46,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=parvejme24&theme=codeSTACKr&border_radius=5" />
-      </a>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parvejme24&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
