@@ -1,26 +1,78 @@
-![MERN Stack Developer](https://i.ibb.co.com/Htzntc9/Md-Parvej-Banner.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/Htzntc9/Md-Parvej-Banner.png" alt="Md Parvej Banner" />
+</p>
 
-### About Me
-👋 Hi, I'm Md Parvej, a MERN Stack Developer passionate about crafting user-friendly web experiences. From robust backends to dynamic frontends, I love turning ideas into code. Eager learner, collaborator, and coding enthusiast. Let's build something amazing together! 🚀👨‍💻
+<h1 align="center">Hi 👋, I'm Md Parvej</h1>
+<h3 align="center">Senior Full Stack Developer | MERN Stack Expert | Passionate Coder</h3>
 
-### Skills:  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,tailwind,bootstrap,firebase,redux,nodejs,express,mongodb,mysql,graphql,materialui,nextjs,vscode,webstorm,pycharm,github,git,c,py,docker,stackoverflow,threejs,vite,wordpress,yarn,npm,postman,webpack,regex)](https://skillicons.dev)
+---
 
+### 🧑‍💻 About Me
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvejme24&theme=codeSTACKr)
+🌟 I'm a dedicated **Full Stack Developer** with over 1 year of hands-on experience in building responsive, scalable, and performant web applications using the **MERN stack** and other modern technologies.
 
+🔧 From **robust backends** to **interactive frontends**, I specialize in turning ideas into real-world products. I'm also a quick learner, a strong collaborator, and I believe in clean, maintainable code.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvejme24&theme=codeSTACKr)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvejme24&theme=codeSTACKr&utcOffset=8)
+🚀 Currently seeking opportunities to contribute to large-scale projects and grow as a **Senior Developer**. Let’s create innovative solutions together!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parvejme24&theme=dark&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+---
 
+### 🛠️ My Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,redux,graphql,tailwind,bootstrap,materialui,vite,webpack,docker,git,github,vscode,pycharm,webstorm,postman,threejs,wordpress,yarn,npm,regex,py,c,stackoverflow,supabase,nginx,kafka,gradle,flask,fastapi,azure,aws,aiscript" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 📈 GitHub Insights
+
+<table align="center">
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvejme24&theme=codeSTACKr" /></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvejme24&theme=codeSTACKr" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parvejme24&theme=codeSTACKr" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvejme24&theme=codeSTACKr" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvejme24&theme=codeSTACKr&utcOffset=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=parvejme24&theme=codeSTACKr&border_radius=5" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔍 Currently
+
+- 🔭 Working on: A full-stack **SaaS application with Next.js, Prisma, and MongoDB**
+- 🌱 Learning: **System Design**, **CI/CD**, and **Microservices architecture**
+- 👯 Open to collaborate on: **Open source** or **startup MVPs**
+- 🤝 Seeking mentorship or advanced roles to grow as a **Senior Developer**
+- 💬 Ask me about: MERN Stack, REST APIs, Firebase Auth, TypeScript, Prisma
+- 📫 Reach me at: `parvejdev24@gmail.com` | [LinkedIn](https://linkedin.com/in/mdparvejdev)
+- ⚡ Fun fact: I drink more coffee than my code has bugs ☕
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mdparvejdev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:parvejdev24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/parvejme24"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://stackoverflow.com/users/your-user-id"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+</p>
