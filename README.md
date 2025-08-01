@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Parvej</h1>
-<h3 align="center">Senior Full Stack Developer | MERN Stack Expert | Passionate Coder</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Expert | Passionate Coder</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 
 🔧 From **robust backends** to **interactive frontends**, I specialize in turning ideas into real-world products. I'm also a quick learner, a strong collaborator, and I believe in clean, maintainable code.
 
-🚀 Currently seeking opportunities to contribute to large-scale projects and grow as a **Senior Developer**. Let’s create innovative solutions together!
+🚀 Currently seeking opportunities to contribute to large-scale projects and grow as a **Full Stack Developer**. Let’s create innovative solutions together!
 
 ---
 
