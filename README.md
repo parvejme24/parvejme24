@@ -56,6 +56,17 @@ Currently open to onsite roles in Bangladesh, international onsite opportunities
 
 ---
 
+**Technical Stack**
+
+- **Languages:**        JavaScript · TypeScript · Python · C · SQL · Bash
+- **Frontend:**         React · Next.js · Tailwind CSS · shadcn/ui · Redux
+- **Backend:**          Node.js · Express · NestJS · REST API · GraphQL · Socket.io
+- **Database:**         MongoDB · PostgreSQL · MySQL · Redis · Prisma · Mongoose
+- **Auth & Cloud:**     Firebase · NextAuth · JWT · AWS EC2 · Cloudinary
+- **DevOps:**           Linux · Docker · NGINX · GitHub Actions · CI/CD
+- **AI & Automation:**  n8n · OpenAI API · LangChain · Make.com · Apify
+- **Tools:**            Git · Postman · VS Code · SSLCommerz · Stripe
+
 ### 🔍 Currently
 
 - 🔭 Working on: A full-stack **SaaS application with Next.js, Prisma, and MongoDB**
