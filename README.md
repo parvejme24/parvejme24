@@ -9,11 +9,13 @@
 
 ### 🧑‍💻 About Me
 
-🌟 I'm a dedicated **Full Stack Developer** with over 1 year of hands-on experience in building responsive, scalable, and performant web applications using the **MERN stack** and other modern technologies.
+I'm Md Parvej, a Full Stack Developer based in Dhaka, Bangladesh, with hands-on experience building scalable, production-ready web applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB. I specialize in end-to-end product development — from architecting robust REST APIs and real-time backend systems to crafting responsive, performance-optimized frontends.
 
-🔧 From **robust backends** to **interactive frontends**, I specialize in turning ideas into real-world products. I'm also a quick learner, a strong collaborator, and I believe in clean, maintainable code.
+Beyond core web development, I work with modern DevOps tools including Docker, AWS EC2, NGINX, and GitHub Actions CI/CD pipelines. I'm also actively building AI-powered solutions and automation workflows using n8n, OpenAI API, and LangChain — helping businesses save time and scale smarter.
 
-🚀 Currently seeking opportunities to contribute to large-scale projects and grow as a **Full Stack Developer**. Let’s create innovative solutions together!
+I thrive in collaborative, fast-moving environments and have a strong habit of writing clean, maintainable, well-documented code. Whether working independently as a freelancer or as part of a cross-functional team, I bring ownership, reliability, and a genuine passion for solving real problems through technology.
+
+Currently open to onsite roles in Bangladesh, international onsite opportunities, and remote positions worldwide.
 
 ---
 
