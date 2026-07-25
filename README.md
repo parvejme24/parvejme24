@@ -20,7 +20,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 > I believe great products come from solving real problems, not stacking technologies.
 
 
-## 💼 Experience
+## Experience
 
 **Full-Stack Developer** — TechFynite Agency
 *[02 February 2024] – [20 October 2025]*
@@ -31,7 +31,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 - Worked across **e-commerce, SaaS, and business management** domains
   
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What It Does |
 |---------|-------------|
@@ -66,7 +66,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 ---
 
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.mdparvej.dev/" target="_blank">
