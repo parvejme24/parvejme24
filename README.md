@@ -47,11 +47,22 @@ Currently open to onsite roles in Bangladesh, international onsite opportunities
 
 ---
 
-### 🔗 Let's Connect
+### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/mdparvejdev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:parvejdev24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/parvejme24"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://stackoverflow.com/users/your-user-id"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+<p align="left">
+  <a href="https://www.mdparvej.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mdparvej.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:parvejme24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-parvejme24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parvejme/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-parvejme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/parvejmep" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@parvejmep-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+  <a href="https://discord.com/invite/DZRttqED" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
