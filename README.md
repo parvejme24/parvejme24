@@ -21,17 +21,18 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | What It Does |
 |---------|-------------|
-| **HabitFlow** | Full-stack SaaS habit tracker with BullMQ/Redis job scheduling, Socket.io real-time notifications, and SSLCommerz/ShurjoPay payment integration |
-| **EduManage Pro** | Multi-tenant school ERP system with role-based access, Prisma ORM, deployed on AWS EC2 with CI/CD pipelines |
-| **JobSpark BD** | AI-powered job board connecting Bangladeshi talent with opportunities |
-| **BloodConnect** | Blood donation platform with real-time emergency request broadcasting via Socket.io |
-| **PureBD Mart** | Full-featured e-commerce platform with cart, checkout, and order management |
+| **[HabitFlow](https://github.com/parvejme24)** — SaaS Habit Tracker | Production-ready **subscription SaaS platform** with automated habit reminders via **BullMQ/Redis job queues**, live push notifications through **Socket.io**, and local payment gateway integration (**SSLCommerz & ShurjoPay**). Built for scale with rate limiting & caching. |
+| **[EduManage Pro](https://github.com/parvejme24)** — School ERP System | **Multi-tenant SaaS architecture** serving multiple schools from a single codebase — role-based access control (Admin/Teacher/Student/Parent), attendance & result automation, **deployed on AWS EC2 with zero-downtime CI/CD pipelines**. |
+| **[Fynite People](https://github.com/parvejme24)** — Virtual Office Management | **All-in-one remote workspace platform** — real-time team chat & video meetings, employee management with **automated payroll & payments**, task tracking, and attendance — everything a distributed team needs to run a **complete virtual office**. |
+| **[TechNibas](https://github.com/parvejme24)** — Digital Product Marketplace | **Digital product selling platform** for templates, software & digital assets — instant delivery after **secure payment**, license key management, downloadable product vault & seller dashboard with sales analytics. |
+| **[Gadget Brust](https://github.com/parvejme24)** — E-Commerce with Inventory | **Full-featured e-commerce solution** with real-time **stock & inventory management**, low-stock alerts, cart & secure checkout, order tracking, and admin analytics — built to handle everything from product upload to delivery. |
+| **[JobSpark BD](https://github.com/parvejme24)** — AI-Powered Job Board | Smart job matching platform using **LLM-based resume analysis** — parses CVs, scores candidate-job fit, and auto-suggests openings. Full-text search, employer dashboards & applicant tracking built in. |
 
-The goal: build products that are **maintainable, scalable, and actually used**.
+> 💡 From virtual offices to digital marketplaces — I build platforms that run real businesses.
 
 ---
 
