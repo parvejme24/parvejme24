@@ -20,6 +20,16 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 > I believe great products come from solving real problems, not stacking technologies.
 
 
+## 💼 Experience
+
+**Full-Stack Developer** — TechFynite Agency
+*[Start Date] – [End Date / Present]*
+
+- Developed and shipped **production web applications** for real clients — from requirement analysis to deployment
+- Built **scalable REST APIs, real-time features, and payment integrations** using Node.js, Express & Next.js
+- Collaborated in an **agency workflow** — sprint-based delivery, code reviews, and client communication
+- Worked across **e-commerce, SaaS, and business management** domains
+  
 
 ## 🚀 Featured Projects
 
