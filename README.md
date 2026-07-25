@@ -29,6 +29,12 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 - Built **scalable REST APIs, real-time features, and payment integrations** using Node.js, Express & Next.js
 - Collaborated in an **agency workflow** — sprint-based delivery, code reviews, and client communication
 - Worked across **e-commerce, SaaS, and business management** domains
+
+**Freelance Full-Stack Developer** — Self-Employed
+*Nov 2025 – Present*
+
+- Building full-stack web applications and automation solutions for clients
+- Expanding expertise in DevOps (Docker, CI/CD, AWS) and AI workflow automation (n8n, Make.com)
   
 
 ## Featured Projects
