@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/nsG6WgMP/md-parvej-github-banner.png" alt="Md Parvej Banner" />
+  <img src="https://i.ibb.co.com/vxfPjMRF/md-parvej-github-cover.png" alt="Md Parvej Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Parvej</h1>
