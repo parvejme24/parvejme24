@@ -23,7 +23,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 ## 💼 Experience
 
 **Full-Stack Developer** — TechFynite Agency
-*[Start Date] – [End Date / Present]*
+*[02 February 2024] – [20 October 2026]*
 
 - Developed and shipped **production web applications** for real clients — from requirement analysis to deployment
 - Built **scalable REST APIs, real-time features, and payment integrations** using Node.js, Express & Next.js
