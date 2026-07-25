@@ -37,16 +37,16 @@ The goal: build products that are **maintainable, scalable, and actually used**.
 
 ## Core Competencies
 
-| Domain | Focus |
-|--------|-------|
+| Domain | Expertise |
+|--------|-----------|
 | **Languages** | JavaScript · TypeScript · Python · C · SQL · Bash |
-| **Frontend Engineering** | React · Next.js · Tailwind CSS · shadcn/ui · Redux · Responsive design |
-| **Backend Engineering** | Node.js · Express · NestJS · REST APIs · GraphQL · Socket.io (real-time systems) |
-| **Database & ORM** | MongoDB · PostgreSQL · MySQL · Redis · Prisma · Mongoose |
-| **Auth & Cloud** | Firebase · NextAuth · JWT · AWS EC2 · Cloudinary |
-| **Automation & AI** | n8n · Make.com · Apify · OpenAI API · LangChain · RAG pipelines · MCP integrations |
-| **DevOps (Learning)** | Linux · Docker · NGINX · GitHub Actions · CI/CD |
-| **Tools & Services** | Git · Postman · VS Code · SSLCommerz · Stripe · Figma |
+| **Frontend Engineering** | Building responsive, component-driven UIs with **React & Next.js** (App Router, SSR/SSG) · State management with Redux & Zustand · Modern styling with Tailwind CSS & shadcn/ui |
+| **Backend Engineering** | Designing RESTful & GraphQL APIs with **Node.js, Express & NestJS** · Real-time systems with Socket.io · Background jobs with BullMQ · Secure authentication (JWT, NextAuth, Firebase Auth) |
+| **Database & Data Modeling** | Schema design & query optimization across **MongoDB, PostgreSQL & MySQL** · Type-safe data access with Prisma & Mongoose · Caching with Redis |
+| **Automation & AI Engineering** | Building AI agent workflows with **n8n, Make.com & Apify** · RAG pipelines & MCP integrations · LLM-powered features with OpenAI API & LangChain |
+| **Payments & Integrations** | Payment gateway integration (**SSLCommerz, ShurjoPay, Stripe**) · Media handling with Cloudinary · Email automation with Nodemailer |
+| **DevOps & Deployment** *(learning)* | Containerization with **Docker** · CI/CD pipelines with GitHub Actions · AWS EC2 provisioning · NGINX reverse proxy · Linux server management |
+| **Tools & Workflow** | Git & GitHub · Postman · VS Code · Figma · Agile-style iterative development |
 
 ---
 
