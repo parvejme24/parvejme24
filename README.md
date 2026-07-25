@@ -21,7 +21,7 @@ Currently open to onsite roles in Bangladesh, international onsite opportunities
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,redux,graphql,tailwind,bootstrap,materialui,vite,webpack,docker,git,github,vscode,pycharm,webstorm,postman,threejs,wordpress,yarn,npm,regex,py,c,stackoverflow,supabase,nginx,kafka,gradle,flask,fastapi,azure,aws,aiscript" />
   </a>
