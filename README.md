@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Parvej</h1>
-<h3 align="center">Full Stack Engineer | React · Next.js · Node.js · TypeScript | Scalable Web Apps · Cloud Deployment · AI Integration</h3>
+<h3 align="center">Full Stack Developer · System Architect · AI & DevOps Engineer</h3>
 
 ---
 
