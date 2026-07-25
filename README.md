@@ -7,8 +7,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
 ## About Me
 
 I'm **Md Parvej**, a full-stack developer from Dhaka, Bangladesh 🇧🇩 — building scalable web applications, SaaS products, and AI-powered automation workflows.
@@ -20,6 +18,8 @@ I specialize in **React/Next.js ecosystems, API-driven backends, and workflow au
 Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-ready infrastructure, not just code.
 
 > I believe great products come from solving real problems, not stacking technologies.
+
+
 
 ## Featured Projects
 
@@ -39,12 +39,14 @@ The goal: build products that are **maintainable, scalable, and actually used**.
 
 | Domain | Focus |
 |--------|-------|
-| **Frontend Engineering** | React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Responsive design |
-| **Backend Engineering** | Node.js · Express · REST APIs · JWT/NextAuth authentication · Real-time systems (Socket.io) |
-| **Database & ORM** | MongoDB · PostgreSQL · MySQL · Prisma · Mongoose |
-| **Automation Engineering** | n8n · Make.com · Apify · AI agent workflows · RAG pipelines · MCP integrations |
-| **DevOps (Learning)** | Docker · GitHub Actions · CI/CD · AWS EC2 · NGINX · Linux server management |
-| **AI Integration** | AI-powered features · Chatbots · Resume analyzers · LLM API integration |
+| **Languages** | JavaScript · TypeScript · Python · C · SQL · Bash |
+| **Frontend Engineering** | React · Next.js · Tailwind CSS · shadcn/ui · Redux · Responsive design |
+| **Backend Engineering** | Node.js · Express · NestJS · REST APIs · GraphQL · Socket.io (real-time systems) |
+| **Database & ORM** | MongoDB · PostgreSQL · MySQL · Redis · Prisma · Mongoose |
+| **Auth & Cloud** | Firebase · NextAuth · JWT · AWS EC2 · Cloudinary |
+| **Automation & AI** | n8n · Make.com · Apify · OpenAI API · LangChain · RAG pipelines · MCP integrations |
+| **DevOps (Learning)** | Linux · Docker · NGINX · GitHub Actions · CI/CD |
+| **Tools & Services** | Git · Postman · VS Code · SSLCommerz · Stripe · Figma |
 
 ---
 
@@ -52,20 +54,6 @@ The goal: build products that are **maintainable, scalable, and actually used**.
 
 ---
 
-
-
-**Technical Stack**
-
-- **Languages:**        JavaScript · TypeScript · Python · C · SQL · Bash
-- **Frontend:**         React · Next.js · Tailwind CSS · shadcn/ui · Redux
-- **Backend:**          Node.js · Express · NestJS · REST API · GraphQL · Socket.io
-- **Database:**         MongoDB · PostgreSQL · MySQL · Redis · Prisma · Mongoose
-- **Auth & Cloud:**     Firebase · NextAuth · JWT · AWS EC2 · Cloudinary
-- **DevOps:**           Linux · Docker · NGINX · GitHub Actions · CI/CD
-- **AI & Automation:**  n8n · OpenAI API · LangChain · Make.com · Apify
-- **Tools:**            Git · Postman · VS Code · SSLCommerz · Stripe
-
----
 
 ### 📫 Connect With Me
 
