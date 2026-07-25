@@ -57,20 +57,20 @@ The goal: build products that are **maintainable, scalable, and actually used**.
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.mdparvej.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mdparvej.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" height="28"/>
+  </a>&nbsp;
   <a href="mailto:parvejme24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parvejme24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/parvejme/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-parvejme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>&nbsp;
   <a href="https://x.com/parvejmep" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@parvejmep-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white" height="28"/>
+  </a>&nbsp;
   <a href="https://discord.com/invite/DZRttqED" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="28"/>
   </a>
 </p>
