@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Md Parvej**, a full-stack developer from Dhaka, Bangladesh 🇧🇩 — building scalable web applications, SaaS products, and AI-powered automation workflows.
 
@@ -21,7 +21,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Full-Stack Developer** — TechFynite Agency
 <br/>
@@ -41,7 +41,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What It Does |
 |---------|-------------|
@@ -56,7 +56,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 | Domain | Expertise |
 |--------|-----------|
@@ -71,7 +71,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parvejme24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -84,7 +84,7 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.mdparvej.dev/" target="_blank">
