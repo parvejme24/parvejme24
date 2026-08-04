@@ -42,14 +42,14 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 ---
 
 ## Featured Projects
-
 | Project | What It Does |
 |---------|-------------|
 | **[HabitFlow](https://github.com/parvejme24)** — SaaS Habit Tracker | Production-ready **subscription SaaS platform** with automated habit reminders via **BullMQ/Redis job queues**, live push notifications through **Socket.io**, and local payment gateway integration (**SSLCommerz & ShurjoPay**). Built for scale with rate limiting & caching. |
+| **[Fixly](https://github.com/parvejme24)** — Home Services Marketplace | **Two-sided marketplace** connecting homeowners with verified service professionals — provider onboarding & verification, real-time slot booking, **SSLCommerz payment integration**, and a rating/review system. Powered by a fully documented **OpenAPI 3.0 REST API** built on TypeScript, Express & Prisma/PostgreSQL. |
 | **[EduManage Pro](https://github.com/parvejme24)** — School ERP System | **Multi-tenant SaaS architecture** serving multiple schools from a single codebase — role-based access control (Admin/Teacher/Student/Parent), attendance & result automation, **deployed on AWS EC2 with zero-downtime CI/CD pipelines**. |
 | **[Fynite People](https://github.com/parvejme24)** — Virtual Office Management | **All-in-one remote workspace platform** — real-time team chat & video meetings, employee management with **automated payroll & payments**, task tracking, and attendance — everything a distributed team needs to run a **complete virtual office**. |
 | **[TechNibas](https://github.com/parvejme24)** — Digital Product Marketplace | **Digital product selling platform** for templates, software & digital assets — instant delivery after **secure payment**, license key management, downloadable product vault & seller dashboard with sales analytics. |
-| **[Gadget Brust](https://github.com/parvejme24)** — E-Commerce with Inventory | **Full-featured e-commerce solution** with real-time **stock & inventory management**, low-stock alerts, cart & secure checkout, order tracking, and admin analytics — built to handle everything from product upload to delivery. |
+| **[Gadget Burst](https://github.com/parvejme24)** — E-Commerce with Inventory | **Full-featured e-commerce solution** with real-time **stock & inventory management**, low-stock alerts, cart & secure checkout, order tracking, and admin analytics — built to handle everything from product upload to delivery. |
 | **[JobSpark BD](https://github.com/parvejme24)** — AI-Powered Job Board | Smart job matching platform using **LLM-based resume analysis** — parses CVs, scores candidate-job fit, and auto-suggests openings. Full-text search, employer dashboards & applicant tracking built in. |
 
 > 💡 From virtual offices to digital marketplaces — I build platforms that run real businesses.
