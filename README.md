@@ -72,13 +72,6 @@ Currently expanding into **DevOps** (Docker, CI/CD, AWS) to ship production-read
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parvejme24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## Connect With Me
 
